@@ -1,0 +1,14 @@
+{
+  "name": "eris-bos",
+  "version": "6.2.6",
+  "description": "Eris Boş Alt Yapı Made By Just1N",
+  "main": "Just1N.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Just1N",
+  "license": "ISC",
+  "dependencies": {
+    "eris": "^0.17.2"
+  }
+}
